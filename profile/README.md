@@ -3,7 +3,7 @@
 #### Language: Telugu
 #### Trainer: Sivakumar Reddy
 #### Demo: 11-AUG-2024 10:30AM IST
-#### Classes: 12-AUG-2024 07:45-09:15AM IST
+#### Classes: 12-AUG-2024 07:45-09:15PM IST
 #### Duration: 120 Hours, 3.5 Months, MON-FRI
 
 #### Session Link: https://tally.so/r/woo62e

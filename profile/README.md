@@ -6,7 +6,7 @@
 #### Classes: 12-AUG-2024 07:45-09:15PM IST
 #### Duration: 120 Hours, 3.5 Months, MON-FRI
 
-#### Session Link: https://tally.so/r/woo62e
+#### Content Index: https://tally.so/r/woo62e
 
 #### Videos Link: https://www.youtube.com/playlist?list=PL1jY4BuFJn1f4Z9kbP_9uk2EEdELIR_MX
 ### AWS Account Creation
